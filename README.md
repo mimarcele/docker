@@ -11,3 +11,5 @@ Instalação:
  - docker run -p 3306:3306 --name (nome) -e MYSQL_ROOT_PASSWORD=(senha) -d mysql : Criar um container utilizando imagem mysql 
  - docker container start (nome) : Iniciar um container
  - docker container stop (nome) : Parar um container 
+ 
+ #Documentação da api está disponível no link: http://localhost:8080/swagger-ui.html
