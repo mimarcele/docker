@@ -2,7 +2,7 @@
 Instalação: 
  Site oficial do docker para a instalação do aplicativo : https://www.docker.com/
  
- Passo a passo em vídeo para a instalação do docker: https://www.youtube.com/watch?v=Bxepw-C5a-s
+ Passo a passo em vídeo para a instalação do docker: https://www.youtube.com/watch?v=Hg4i7f5SdWI&t=342s
  
  Comandos utilizados para o MySql:
  
